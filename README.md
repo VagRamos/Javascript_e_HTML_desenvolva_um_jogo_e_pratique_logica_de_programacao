@@ -7,7 +7,7 @@ Prática de lógica de programação com Javascript e HMTL.
 
 Disponível em [alura.com.br](https://www.alura.com.br)
 
-![HTMl logo](\assets\html5.png) ![HTMl logo](\assets\hacker.png) ![HTMl logo](\assets\javascript.png) 
+![HTMl logo](assets\html5.png) ![hacker logo](assets\hacker.png) ![Javascript logo](assets\javascript.png) 
 
 
 
